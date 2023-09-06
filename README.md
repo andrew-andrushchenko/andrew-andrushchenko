@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a computer science student with a passion for solving different real-life problems and finding interesting solutions.
+
+- 🔭 I’m currently working on a group open-source Robotics and IoT project
+- 💼 I am looking for an internship or entry-level position in one of these fields: mobile development, software development for electronic devices, or software automation and testing
+- 📫 How to reach me:
+  - Email: aw.andrushchenko@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/andrii-andrushchenko-7b6739216
 <!--
 **andrew-andrushchenko/andrew-andrushchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+💼
 -->
