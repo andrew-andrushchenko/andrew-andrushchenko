@@ -2,7 +2,7 @@
 
 I am a computer science student with a passion for solving different real-life problems and finding interesting solutions.
 
-- 🔭 I’m currently working on a group open-source Robotics and IoT project
+- 🔭 I’m currently working on a group open-source [Robotics and IoT](https://34panda.github.io/docsify/#/) project. My part is the [Lumos](https://github.com/andrew-andrushchenko/Lumos-arduino) room ambient light project.
 - 💼 I am looking for an internship or entry-level position in one of these fields: mobile development, software development for electronic devices, or software automation and testing
 - 📫 How to reach me:
   - Email: aw.andrushchenko@gmail.com
