@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I am computer science student with a passion for solving different real-life problems and finding interesting solutions. I have a strong interest in mobile application development, electronics, and telecommunication. Proficient in Java, Kotlin, and C++ with deep understanding of the application development cycle and data processing. Familiar with computer vision in the context of image preprocessing algorithms. 
+I am computer science Student, Android developer & Engineer. Passionate about technology, programming, and music.
 
-Experienced in working individually or in a group. Able to communicate and help others solve different technical problems. I am also a quick learner, and always eager to take on new challenges. 
+About me:
 
-- 🔭 I’m currently working on a group open-source [Robotics and IoT](https://34panda.github.io/docsify/#/) project. My part is the [Lumos](https://github.com/andrew-andrushchenko/Lumos-arduino) room ambient light project.
-- 💼 I am looking for an internship or entry-level position in one of these fields: mobile development, software development for electronic devices, or software automation and testing
+- 🔭 I’m currently working on a [Lumos](https://github.com/andrew-andrushchenko/Lumos) wireless garland with multiple different effects
+- 👨‍💻 Co-developer of a project with an [e-learning course](https://34panda.github.io/docsify/#/) for the Academy of Skills
+- 👨‍🎓 Board Member, Electronics & Electrical Engineering Scientific Club
 - 📫 How to reach me:
   - Email: aw.andrushchenko@gmail.com
   - LinkedIn: https://www.linkedin.com/in/andrii-andrushchenko-7b6739216
