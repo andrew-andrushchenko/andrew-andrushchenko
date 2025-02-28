@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am computer science Student, Android developer & Engineer. Passionate about technology, programming, and music.
+Android developer & Engineer. Passionate about technology, programming, and music.
 
 About me:
 
-- 🔭 I’m currently working on developing a pilot application to steer a robotic system built on top of FPGA and ESP32 microcontroller.
 - 👨‍💻 Co-developer of a project with an [e-learning course](https://34panda.github.io/docsify/#/) for the Academy of Skills
 - 👨‍🎓 Board Member, Electronics & Electrical Engineering Scientific Club
 - 📫 How to reach me:
