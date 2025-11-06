@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-Android developer & Engineer. Passionate about technology, programming, and music.
+Mobile developer & Engineer. Passionate about technology, programming, and music.
 
 About me:
 
 - 👨‍💻 Co-developer of a project with an [e-learning course](https://34panda.github.io/docsify/#/) for the Academy of Skills
-- 👨‍🎓 Board Member, Electronics & Electrical Engineering Scientific Club
 - 📫 How to reach me:
   - Email: aw.andrushchenko@gmail.com
   - LinkedIn: https://www.linkedin.com/in/andrii-andrushchenko-7b6739216
