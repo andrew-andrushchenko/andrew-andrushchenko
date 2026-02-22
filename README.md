@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Mobile developer & Engineer. Passionate about technology, programming, and music.
+Software developer & Engineer. Passionate about technology, programming, and music.
 
 About me:
 
